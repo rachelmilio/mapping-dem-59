@@ -91,6 +91,10 @@
             "descriptions": [
                 { "@id": "Dem.59.24", "value": "Neaira comes to Athens for the great Panathenaea, the procession for which ended at the Acropolis (Dem. 59.24)."},
                 { "@id": "Dem.59.24.grc", "value": "\"πάλιν τοίνυν, ὦ ἄνδρες Ἀθηναῖοι, μετὰ ταῦτα Σῖμος ὁ Θετταλὸς ἔχων Νέαιραν ταυτηνὶ ἀφικνεῖται δεῦρο εἰς τὰ Παναθήναια τὰ μεγάλα...\""}
+            ],
+            "links": [
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/822370" }
             ]
         },
         {
@@ -109,6 +113,12 @@
             "descriptions": [
                 { "@id": "Dem.59.24", "value": "Neaira and Nikarete stay in the home of Ctesippus of Cydantidae (Dem. 59.24)."},
                 { "@id": "Dem.59.24.grc", "value": "\"συνηκολούθει δὲ καὶ ἡ Νικαρέτη αὐτῇ, κατήγοντο δὲ παρὰ Κτησίππῳ τῷ Γλαυκωνίδου τῷ Κυδαντίδῃ, καὶ συνέπινεν καὶ συνεδείπνει ἐναντίον πολλῶν Νέαιρα αὑτηὶ ὡς ἂν ἑταίρα οὖσα...\""}
+            ],
+            "links": [
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/587495" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/277240" }
             ]
         },
         {
