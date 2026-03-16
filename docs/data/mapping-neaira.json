@@ -17,7 +17,9 @@
                 ]
             },
             "descriptions": [
-                { "@id": "Dem.59.21", "value": "Neaira is initiated into the mystery cult at Eleusis"}]
+                { "@id": "Dem.59.21", "value": "Neaira is initiated into the mystery cult at Eleusis, alongside Nikarete and Metaneaira (Dem. 59.21)."},
+                { "@id": "Dem.59.21.grc", "value": "ἐδεήθη οὖν τῆς Νικαρέτης ἐλθεῖν εἰς τὰ μυστήρια ἄγουσαν τὴν Μετάνειραν, ἵνα μυηθῇ, καὶ αὐτὸς ὑπέσχετο μυήσειν..."}
+            ]
         },
         {
             "@id":"https://pleiades.stoa.org/places/579985",
