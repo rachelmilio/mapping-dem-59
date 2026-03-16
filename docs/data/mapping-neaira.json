@@ -21,7 +21,7 @@
                 { "@id": "Dem.59.21.grc", "value": "\"ἐδεήθη οὖν τῆς Νικαρέτης ἐλθεῖν εἰς τὰ μυστήρια ἄγουσαν τὴν Μετάνειραν, ἵνα μυηθῇ, καὶ αὐτὸς ὑπέσχετο μυήσειν...\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615" }
             ]
@@ -44,7 +44,7 @@
                 { "@id": "Dem.59.22.grc", "value": "\"ὡς Φιλόστρατον δὲ τὸν Κολωνῆθεν, ᾔθεον ἔτι ὄντα καὶ φίλον αὐτῷ, καθίστησιν ὁ Λυσίας αὐτάς, τήν τε Μετάνειραν καὶ τὴν Νικαρέτην...\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/lysias" }
@@ -70,7 +70,7 @@
                 { "@id": "Dem.59.26.grc", "value": "\"μετὰ ταῦτα τοίνυν ἐν τῇ Κορίνθῳ αὐτῆς ἐπιφανῶς ἐργαζομένης καὶ οὔσης λαμπρᾶς ἄλλοι τε ἐρασταὶ γίγνονται καὶ Ξενοκλείδης ὁ ποιητὴς καὶ Ἵππαρχος ὁ ὑποκριτής...\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615" }
             ]
@@ -93,7 +93,7 @@
                 { "@id": "Dem.59.24.grc", "value": "\"πάλιν τοίνυν, ὦ ἄνδρες Ἀθηναῖοι, μετὰ ταῦτα Σῖμος ὁ Θετταλὸς ἔχων Νέαιραν ταυτηνὶ ἀφικνεῖται δεῦρο εἰς τὰ Παναθήναια τὰ μεγάλα...\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/822370" }
             ]
         },
@@ -115,7 +115,7 @@
                 { "@id": "Dem.59.24.grc", "value": "\"συνηκολούθει δὲ καὶ ἡ Νικαρέτη αὐτῇ, κατήγοντο δὲ παρὰ Κτησίππῳ τῷ Γλαυκωνίδου τῷ Κυδαντίδῃ, καὶ συνέπινεν καὶ συνεδείπνει ἐναντίον πολλῶν Νέαιρα αὑτηὶ ὡς ἂν ἑταίρα οὖσα...\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/587495" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/277240" }
@@ -139,7 +139,7 @@
                 { "@id": "Dem.59.33.grc", "value": "\"ἀφικόμενος τοίνυν δεῦρο ἔχων αὐτὴν ἀσελγῶς καὶ προπετῶς ἐχρῆτο αὐτῇ, καὶ ἐπὶ τὰ δεῖπνα ἔχων αὐτὴν πανταχοῖ ἐπορεύετο ὅπου πίνοι, ἐκώμαζέ τ᾽ ἀεὶ μετ᾽ αὐτοῦ, συνῆν τ᾽ ἐμφανῶς ὁπότε βουληθείη πανταχοῦ, φιλοτιμίαν τὴν ἐξουσίαν πρὸς τοὺς ὁρῶντας ποιούμενος...\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/965660" }
             ]
         },
@@ -161,7 +161,7 @@
                 { "@id": "Dem.59.33.grc", "value": "\"καὶ ὡς ἄλλους τε πολλοὺς ἐπὶ κῶμον ἔχων ἦλθεν αὐτὴν καὶ ὡς Χαβρίαν τὸν Αἰξωνέα, ὅτε ἐνίκα ἐπὶ Σωκρατίδου ἄρχοντος τὰ Πύθια τῷ τεθρίππῳ ὃ ἐπρίατο παρὰ τῶν παίδων τῶν Μίτυος τοῦ Ἀργείου, καὶ ἥκων ἐκ Δελφῶν εἱστία τὰ ἐπινίκια ἐπὶ Κωλιάδι...\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/970820" }
             ]
         },
@@ -183,7 +183,7 @@
                 { "@id": "Dem.59.35.grc", "value": "\"ἐπειδὴ τοίνυν ἀσελγῶς προὐπηλακίζετο ὑπὸ τοῦ Φρυνίωνος καὶ οὐχ ὡς ᾤετο ἠγαπᾶτο, οὐδ᾽ ὑπηρέτει αὐτῇ ἃ ἐβούλετο, συσκευασαμένη αὐτοῦ τὰ ἐκ τῆς οἰκίας καὶ ὅσα ἦν αὐτῇ ὑπ᾽ ἐκείνου περὶ τὸ σῶμα κατεσκευασμένα ἱμάτια καὶ χρυσία, καὶ θεραπαίνας δύο, Θρᾷτταν καὶ Κοκκαλίνην, ἀποδιδράσκει εἰς Μέγαρα...\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/965660" }
             ]
         },
@@ -205,7 +205,7 @@
                 { "@id": "Dem.59.108.grc", "value": "\"ποῦ γὰρ αὕτη οὐκ εἴργασται τῷ σώματι, ἢ ποῖ οὐκ ἐλήλυθεν ἐπὶ τῷ καθ᾽ ἡμέραν μισθῷ; οὐκ ἐν Πελοποννήσῳ μὲν πάσῃ, ἐν Θετταλίᾳ δὲ καὶ Μαγνησίᾳ μετὰ Σίμου τοῦ Λαρισαίου καὶ Εὐρυδάμαντος τοῦ Μηδείου, ἐν Χίῳ δὲ καὶ ἐν Ἰωνίᾳ τῇ πλείστῃ μετὰ Σωτάδου τοῦ Κρητὸς ἀκολουθοῦσα, μισθωθεῖσα ὑπὸ τῆς Νικαρέτης, ὅτε ἔτι ἐκείνης ἦν;\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m83" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m88" }
             ]
@@ -228,7 +228,7 @@
                 { "@id": "Dem.59.108.grc", "value": "\"ποῦ γὰρ αὕτη οὐκ εἴργασται τῷ σώματι, ἢ ποῖ οὐκ ἐλήλυθεν ἐπὶ τῷ καθ᾽ ἡμέραν μισθῷ; οὐκ ἐν Πελοποννήσῳ μὲν πάσῃ, ἐν Θετταλίᾳ δὲ καὶ Μαγνησίᾳ μετὰ Σίμου τοῦ Λαρισαίου καὶ Εὐρυδάμαντος τοῦ Μηδείου, ἐν Χίῳ δὲ καὶ ἐν Ἰωνίᾳ τῇ πλείστῃ μετὰ Σωτάδου τοῦ Κρητὸς ἀκολουθοῦσα, μισθωθεῖσα ὑπὸ τῆς Νικαρέτης, ὅτε ἔτι ἐκείνης ἦν;\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m83" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m88" }
             ]
@@ -251,7 +251,7 @@
                 { "@id": "Dem.59.108.grc", "value": "\"ποῦ γὰρ αὕτη οὐκ εἴργασται τῷ σώματι, ἢ ποῖ οὐκ ἐλήλυθεν ἐπὶ τῷ καθ᾽ ἡμέραν μισθῷ; οὐκ ἐν Πελοποννήσῳ μὲν πάσῃ, ἐν Θετταλίᾳ δὲ καὶ Μαγνησίᾳ μετὰ Σίμου τοῦ Λαρισαίου καὶ Εὐρυδάμαντος τοῦ Μηδείου, ἐν Χίῳ δὲ καὶ ἐν Ἰωνίᾳ τῇ πλείστῃ μετὰ Σωτάδου τοῦ Κρητὸς ἀκολουθοῦσα, μισθωθεῖσα ὑπὸ τῆς Νικαρέτης, ὅτε ἔτι ἐκείνης ἦν;\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m83" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m88" }
             ]
@@ -274,7 +274,7 @@
                 { "@id": "Dem.59.108.grc", "value": "\"ποῦ γὰρ αὕτη οὐκ εἴργασται τῷ σώματι, ἢ ποῖ οὐκ ἐλήλυθεν ἐπὶ τῷ καθ᾽ ἡμέραν μισθῷ; οὐκ ἐν Πελοποννήσῳ μὲν πάσῃ, ἐν Θετταλίᾳ δὲ καὶ Μαγνησίᾳ μετὰ Σίμου τοῦ Λαρισαίου καὶ Εὐρυδάμαντος τοῦ Μηδείου, ἐν Χίῳ δὲ καὶ ἐν Ἰωνίᾳ τῇ πλείστῃ μετὰ Σωτάδου τοῦ Κρητὸς ἀκολουθοῦσα, μισθωθεῖσα ὑπὸ τῆς Νικαρέτης, ὅτε ἔτι ἐκείνης ἦν;\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m89" }
             ]
         },
@@ -296,7 +296,7 @@
                 { "@id": "Dem.59.108.grc", "value": "\"ποῦ γὰρ αὕτη οὐκ εἴργασται τῷ σώματι, ἢ ποῖ οὐκ ἐλήλυθεν ἐπὶ τῷ καθ᾽ ἡμέραν μισθῷ; οὐκ ἐν Πελοποννήσῳ μὲν πάσῃ, ἐν Θετταλίᾳ δὲ καὶ Μαγνησίᾳ μετὰ Σίμου τοῦ Λαρισαίου καὶ Εὐρυδάμαντος τοῦ Μηδείου, ἐν Χίῳ δὲ καὶ ἐν Ἰωνίᾳ τῇ πλείστῃ μετὰ Σωτάδου τοῦ Κρητὸς ἀκολουθοῦσα, μισθωθεῖσα ὑπὸ τῆς Νικαρέτης, ὅτε ἔτι ἐκείνης ἦν;\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m89" }
             ]
         }
