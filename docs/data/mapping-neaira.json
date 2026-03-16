@@ -19,6 +19,11 @@
             "descriptions": [
                 { "@id": "Dem.59.21", "value": "Neaira is initiated into the mystery cult at Eleusis, alongside Nikarete and Metaneaira (Dem. 59.21)."},
                 { "@id": "Dem.59.21.grc", "value": "\"ἐδεήθη οὖν τῆς Νικαρέτης ἐλθεῖν εἰς τὰ μυστήρια ἄγουσαν τὴν Μετάνειραν, ἵνα μυηθῇ, καὶ αὐτὸς ὑπέσχετο μυήσειν...\""}
+            ],
+            "links": [
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615" }
             ]
         },
         {
@@ -37,6 +42,12 @@
             "descriptions": [
                 { "@id": "Dem.59.22", "value": "Neaira, Nikarete, and Metaneaira are lodged at the home of Philostratus of Colonus (Dem. 59.22)."},
                 { "@id": "Dem.59.22.grc", "value": "\"ὡς Φιλόστρατον δὲ τὸν Κολωνῆθεν, ᾔθεον ἔτι ὄντα καὶ φίλον αὐτῷ, καθίστησιν ὁ Λυσίας αὐτάς, τήν τε Μετάνειραν καὶ τὴν Νικαρέτην...\""}
+            ],
+            "links": [
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/lysias" }
             ]
         },
         {
@@ -57,6 +68,11 @@
                 { "@id": "Dem.59.23.grc", "value": "\"Φιλόστρατος Διονυσίου Κολωνῆθεν μαρτυρεῖ εἰδέναι Νέαιραν Νικαρέτης οὖσαν, ἧσπερ καὶ Μετάνειρα ἐγένετο, καὶ κατάγεσθαι παρ᾽ αὑτῷ, ὅτε εἰς τὰ μυστήρια ἐπεδήμησαν ἐν Κορίνθῳ οἰκοῦσαι...\""},
                 { "@id": "Dem.59.26", "value": "Neaira worked as a prostitute in Corinth (Dem. 59.26)."},
                 { "@id": "Dem.59.26.grc", "value": "\"μετὰ ταῦτα τοίνυν ἐν τῇ Κορίνθῳ αὐτῆς ἐπιφανῶς ἐργαζομένης καὶ οὔσης λαμπρᾶς ἄλλοι τε ἐρασταὶ γίγνονται καὶ Ξενοκλείδης ὁ ποιητὴς καὶ Ἵππαρχος ὁ ὑποκριτής...\""}
+            ],
+            "links": [
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615" }
             ]
         },
         {
