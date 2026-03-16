@@ -15,7 +15,9 @@
                     23.537401,
                     38.041101
                 ]
-            }
+            },
+            "descriptions": [
+                { "@id": "Dem.59.21", "value": "Neaira is initiated into the mystery cult at Eleusis"}]
         },
         {
             "@id":"https://pleiades.stoa.org/places/579985",
