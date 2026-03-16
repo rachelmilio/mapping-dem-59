@@ -22,8 +22,8 @@
             ],
             "links": [
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615" }
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752", "title": "Metaneaira" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615", "title": "Nicarete" }
             ]
         },
         {
@@ -45,8 +45,8 @@
             ],
             "links": [
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752", "title": "Metaneaira" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615", "title": "Nicarete" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/lysias" }
             ]
         },
@@ -71,8 +71,8 @@
             ],
             "links": [
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615" }
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752", "title": "Metaneaira" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615", "title": "Nicarete" }
             ]
         },
         {
@@ -116,7 +116,7 @@
             ],
             "links": [
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615", "title": "Nicarete" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/587495" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/277240" }
             ]
