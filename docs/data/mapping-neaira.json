@@ -21,9 +21,9 @@
                 { "@id": "Dem.59.21.grc", "value": "\"ἐδεήθη οὖν τῆς Νικαρέτης ἐλθεῖν εἰς τὰ μυστήρια ἄγουσαν τὴν Μετάνειραν, ἵνα μυηθῇ, καὶ αὐτὸς ὑπέσχετο μυήσειν...\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752", "title": "Metaneaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615", "title": "Nicarete" }
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "label": "Neaira" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752", "label": "Metaneaira" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615", "label": "Nicarete" }
             ]
         },
         {
@@ -44,9 +44,9 @@
                 { "@id": "Dem.59.22.grc", "value": "\"ὡς Φιλόστρατον δὲ τὸν Κολωνῆθεν, ᾔθεον ἔτι ὄντα καὶ φίλον αὐτῷ, καθίστησιν ὁ Λυσίας αὐτάς, τήν τε Μετάνειραν καὶ τὴν Νικαρέτην...\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752", "title": "Metaneaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615", "title": "Nicarete" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "label": "Neaira" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752", "label": "Metaneaira" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615", "label": "Nicarete" },
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/lysias" }
             ]
         },
@@ -70,9 +70,9 @@
                 { "@id": "Dem.59.26.grc", "value": "\"μετὰ ταῦτα τοίνυν ἐν τῇ Κορίνθῳ αὐτῆς ἐπιφανῶς ἐργαζομένης καὶ οὔσης λαμπρᾶς ἄλλοι τε ἐρασταὶ γίγνονται καὶ Ξενοκλείδης ὁ ποιητὴς καὶ Ἵππαρχος ὁ ὑποκριτής...\""}
             ],
             "links": [
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "title": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752", "title": "Metaneaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615", "title": "Nicarete" }
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "label": "Neaira" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/647752", "label": "Metaneaira" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/709615", "label": "Nicarete" }
             ]
         },
         {
