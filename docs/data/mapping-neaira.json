@@ -140,7 +140,7 @@
             ],
             "links": [
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "label": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/965660" }
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/965660", "label": "Phrynion" }
             ]
         },
         {
@@ -162,7 +162,7 @@
             ],
             "links": [
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "label": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/970820" }
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/970820", "label": "Chabrias" }
             ]
         },
         {
@@ -184,7 +184,7 @@
             ],
             "links": [
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "label": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/965660" }
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/965660", "label": "Phrynion" }
             ]
         },
         {
@@ -206,8 +206,8 @@
             ],
             "links": [
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "label": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m83" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m88" }
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m83", "label": "Simus" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m88", "label": "Eurydamus" }
             ]
         },
         {
@@ -229,8 +229,8 @@
             ],
             "links": [
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "label": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m83" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m88" }
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m83", "label": "Simus" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m88", "label": "Eurydamus" }
             ]
         },
         {
@@ -252,8 +252,8 @@
             ],
             "links": [
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "label": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m83" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m88" }
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m83", "label": "Simus" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m88", "label": "Eurydamus" }
             ]
         },
         {
@@ -275,7 +275,7 @@
             ],
             "links": [
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "label": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m89" }
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m89", "label": "Sotadas" }
             ]
         },
         {
@@ -297,7 +297,7 @@
             ],
             "links": [
                 {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905", "label": "Neaira" },
-                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m89" }
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m89", "label": "Sotadas" }
             ]
         }
     ],
