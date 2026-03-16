@@ -18,6 +18,7 @@
     { "pattern": "en.wikipedia.org", "img": "./logos/en.wikipedia.org.png", "label": "Wikipedia" },
     { "pattern": "www.wikidata.org", "img": null, "label": "Wikidata" },
     { "pattern": "www.geonames.org", "img": null, "label": "GeoNames" },
-    { "pattern": "sws.geonames.org", "img": null, "label": "GeoNames" }
+    { "pattern": "sws.geonames.org", "img": null, "label": "GeoNames" },
+    {"pattern": "rachelmilio.github.io/person-index/", "img": null, "label": "Persons entities"}
   ]
 }
