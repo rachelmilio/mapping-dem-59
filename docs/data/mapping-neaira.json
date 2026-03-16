@@ -137,6 +137,10 @@
             "descriptions": [
                 { "@id": "Dem.59.33", "value": "Neaira is purchased by Phrynion, who brings her to Athens (Dem. 59.33)."},
                 { "@id": "Dem.59.33.grc", "value": "\"ἀφικόμενος τοίνυν δεῦρο ἔχων αὐτὴν ἀσελγῶς καὶ προπετῶς ἐχρῆτο αὐτῇ, καὶ ἐπὶ τὰ δεῖπνα ἔχων αὐτὴν πανταχοῖ ἐπορεύετο ὅπου πίνοι, ἐκώμαζέ τ᾽ ἀεὶ μετ᾽ αὐτοῦ, συνῆν τ᾽ ἐμφανῶς ὁπότε βουληθείη πανταχοῦ, φιλοτιμίαν τὴν ἐξουσίαν πρὸς τοὺς ὁρῶντας ποιούμενος...\""}
+            ],
+            "links": [
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/965660" }
             ]
         },
         {
@@ -155,6 +159,10 @@
             "descriptions": [
                 { "@id": "Dem.59.33", "value": "Neaira attends a feast at Colias to celebrate the victory in the Pythian games of Chabrias of Aexone (Dem. 59.33)."},
                 { "@id": "Dem.59.33.grc", "value": "\"καὶ ὡς ἄλλους τε πολλοὺς ἐπὶ κῶμον ἔχων ἦλθεν αὐτὴν καὶ ὡς Χαβρίαν τὸν Αἰξωνέα, ὅτε ἐνίκα ἐπὶ Σωκρατίδου ἄρχοντος τὰ Πύθια τῷ τεθρίππῳ ὃ ἐπρίατο παρὰ τῶν παίδων τῶν Μίτυος τοῦ Ἀργείου, καὶ ἥκων ἐκ Δελφῶν εἱστία τὰ ἐπινίκια ἐπὶ Κωλιάδι...\""}
+            ],
+            "links": [
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/970820" }
             ]
         },
         {
@@ -173,6 +181,10 @@
             "descriptions": [
                 { "@id": "Dem.59.35", "value": "Neaira runs away to Megara to escape Phrynion (Dem. 59.35)."},
                 { "@id": "Dem.59.35.grc", "value": "\"ἐπειδὴ τοίνυν ἀσελγῶς προὐπηλακίζετο ὑπὸ τοῦ Φρυνίωνος καὶ οὐχ ὡς ᾤετο ἠγαπᾶτο, οὐδ᾽ ὑπηρέτει αὐτῇ ἃ ἐβούλετο, συσκευασαμένη αὐτοῦ τὰ ἐκ τῆς οἰκίας καὶ ὅσα ἦν αὐτῇ ὑπ᾽ ἐκείνου περὶ τὸ σῶμα κατεσκευασμένα ἱμάτια καὶ χρυσία, καὶ θεραπαίνας δύο, Θρᾷτταν καὶ Κοκκαλίνην, ἀποδιδράσκει εἰς Μέγαρα...\""}
+            ],
+            "links": [
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/965660" }
             ]
         },
         {
@@ -191,6 +203,11 @@
             "descriptions": [
                 { "@id": "Dem.59.108", "value": "The Peloponnese is listed by Apollodorus as one of the places in which Neaira has worked as a prostitute (Dem. 59.108)."},
                 { "@id": "Dem.59.108.grc", "value": "\" ποῦ γὰρ αὕτη οὐκ εἴργασται τῷ σώματι, ἢ ποῖ οὐκ ἐλήλυθεν ἐπὶ τῷ καθ᾽ ἡμέραν μισθῷ; οὐκ ἐν Πελοποννήσῳ μὲν πάσῃ, ἐν Θετταλίᾳ δὲ καὶ Μαγνησίᾳ μετὰ Σίμου τοῦ Λαρισαίου καὶ Εὐρυδάμαντος τοῦ Μηδείου, ἐν Χίῳ δὲ καὶ ἐν Ἰωνίᾳ τῇ πλείστῃ μετὰ Σωτάδου τοῦ Κρητὸς ἀκολουθοῦσα, μισθωθεῖσα ὑπὸ τῆς Νικαρέτης, ὅτε ἔτι ἐκείνης ἦν;\""}
+            ],
+            "links": [
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m83" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m88" }
             ]
         },
         {
@@ -209,6 +226,11 @@
             "descriptions": [
                 { "@id": "Dem.59.108", "value": "Thessaly is listed by Apollodorus as one of the places in which Neaira has worked as a prostitute (Dem. 59.108)."},
                 { "@id": "Dem.59.108.grc", "value": "\" ποῦ γὰρ αὕτη οὐκ εἴργασται τῷ σώματι, ἢ ποῖ οὐκ ἐλήλυθεν ἐπὶ τῷ καθ᾽ ἡμέραν μισθῷ; οὐκ ἐν Πελοποννήσῳ μὲν πάσῃ, ἐν Θετταλίᾳ δὲ καὶ Μαγνησίᾳ μετὰ Σίμου τοῦ Λαρισαίου καὶ Εὐρυδάμαντος τοῦ Μηδείου, ἐν Χίῳ δὲ καὶ ἐν Ἰωνίᾳ τῇ πλείστῃ μετὰ Σωτάδου τοῦ Κρητὸς ἀκολουθοῦσα, μισθωθεῖσα ὑπὸ τῆς Νικαρέτης, ὅτε ἔτι ἐκείνης ἦν;\""}
+            ],
+            "links": [
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m83" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m88" }
             ]
         },
         {
@@ -227,6 +249,11 @@
             "descriptions": [
                 { "@id": "Dem.59.108", "value": "Magnesia is listed by Apollodorus as one of the places in which Neaira has worked as a prostitute (Dem. 59.108)."},
                 { "@id": "Dem.59.108.grc", "value": "\" ποῦ γὰρ αὕτη οὐκ εἴργασται τῷ σώματι, ἢ ποῖ οὐκ ἐλήλυθεν ἐπὶ τῷ καθ᾽ ἡμέραν μισθῷ; οὐκ ἐν Πελοποννήσῳ μὲν πάσῃ, ἐν Θετταλίᾳ δὲ καὶ Μαγνησίᾳ μετὰ Σίμου τοῦ Λαρισαίου καὶ Εὐρυδάμαντος τοῦ Μηδείου, ἐν Χίῳ δὲ καὶ ἐν Ἰωνίᾳ τῇ πλείστῃ μετὰ Σωτάδου τοῦ Κρητὸς ἀκολουθοῦσα, μισθωθεῖσα ὑπὸ τῆς Νικαρέτης, ὅτε ἔτι ἐκείνης ἦν;\""}
+            ],
+            "links": [
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m83" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m88" }
             ]
         },
         {
@@ -245,6 +272,10 @@
             "descriptions": [
                 { "@id": "Dem.59.108", "value": "Chios is listed by Apollodorus as one of the places in which Neaira has worked as a prostitute (Dem. 59.108)."},
                 { "@id": "Dem.59.108.grc", "value": "\" ποῦ γὰρ αὕτη οὐκ εἴργασται τῷ σώματι, ἢ ποῖ οὐκ ἐλήλυθεν ἐπὶ τῷ καθ᾽ ἡμέραν μισθῷ; οὐκ ἐν Πελοποννήσῳ μὲν πάσῃ, ἐν Θετταλίᾳ δὲ καὶ Μαγνησίᾳ μετὰ Σίμου τοῦ Λαρισαίου καὶ Εὐρυδάμαντος τοῦ Μηδείου, ἐν Χίῳ δὲ καὶ ἐν Ἰωνίᾳ τῇ πλείστῃ μετὰ Σωτάδου τοῦ Κρητὸς ἀκολουθοῦσα, μισθωθεῖσα ὑπὸ τῆς Νικαρέτης, ὅτε ἔτι ἐκείνης ἦν;\""}
+            ],
+            "links": [
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m89" }
             ]
         },
         {
@@ -263,6 +294,10 @@
             "descriptions": [
                 { "@id": "Dem.59.108", "value": "Ionia is listed by Apollodorus as one of the places in which Neaira has worked as a prostitute (Dem. 59.108)."},
                 { "@id": "Dem.59.108.grc", "value": "\" ποῦ γὰρ αὕτη οὐκ εἴργασται τῷ σώματι, ἢ ποῖ οὐκ ἐλήλυθεν ἐπὶ τῷ καθ᾽ ἡμέραν μισθῷ; οὐκ ἐν Πελοποννήσῳ μὲν πάσῃ, ἐν Θετταλίᾳ δὲ καὶ Μαγνησίᾳ μετὰ Σίμου τοῦ Λαρισαίου καὶ Εὐρυδάμαντος τοῦ Μηδείου, ἐν Χίῳ δὲ καὶ ἐν Ἰωνίᾳ τῇ πλείστῃ μετὰ Σωτάδου τοῦ Κρητὸς ἀκολουθοῦσα, μισθωθεῖσα ὑπὸ τῆς Νικαρέτης, ὅτε ἔτι ἐκείνης ἦν;\""}
+            ],
+            "links": [
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/702905" },
+                {"type": "primaryTopicOf", "identifier": "https://rachelmilio.github.io/person-index/m89" }
             ]
         }
     ],
