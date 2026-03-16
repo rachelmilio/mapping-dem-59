@@ -3,7 +3,7 @@
   "map_style": "./map-style-CAWM.json",
   "data": [
     {
-      "name": "Mapping Neaira",
+      "name": "Pleiades Gazetteer",
       "format": "LINKED_PLACES",
       "src": "./data/mapping-neaira.json",
       "attribution": "Rachel Milio 2026"
